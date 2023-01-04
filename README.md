@@ -1,3 +1,3 @@
 ## Joseph Wehby
 - **Languages:** C++, Python
-- **Interests:** Finance, Fitness, Chess, Reading
+- **Interests:** Finance, Fitness, Chess
